@@ -14,9 +14,7 @@ To create a Python program for printing `n` natural numbers using a `for` loop.
 6. In each iteration, print the current value of `i`.
 7. Terminate the program.
 
----
-
-### 🧾 Program
+### Program
 
 ```python
 a=int(input())
